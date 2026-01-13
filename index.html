@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio | Desenvolvedor</title>
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="70">
+
+    <nav class="navbar navbar-expand-lg fixed-top">
+        <div class="container">
+            <a class="navbar-brand fw-bold" href="#">DEV<span class="text-highlight">.PORTFOLIO</span></a>
+            <button class="navbar-toggler bg-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" href="#sobre">Sobre</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#skills">Habilidades</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#projetos">Projetos</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contato">Contato</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <section class="hero-section container">
+        <div class="row align-items-center flex-column-reverse flex-lg-row">
+            <div class="col-lg-7 text-center text-lg-start mt-4 mt-lg-0">
+                <h4 class="text-highlight mb-3">Olá, eu sou</h4>
+                <h1 class="display-3 fw-bold mb-3">Gustavo Bolsoni Santos</h1>
+                <p class="lead mb-4">
+                    Estudante de Tecnologia | Full Stack Developer & Entusiasta C++
+                </p>
+                <div class="d-flex gap-3 justify-content-center justify-content-lg-start">
+                    <a href="#contato" class="btn btn-custom">Entrar em contato</a>
+                    <a href="#projetos" class="btn btn-outline-light">Ver Projetos</a>
+                </div>
+            </div>
+            <div class="col-lg-5 text-center">
+                <div class="profile-img-container">
+                    <img src="img/foto.jpeg" alt="Foto de Perfil" class="profile-img">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="sobre" class="container py-5">
+        <h2 class="mb-5"><span class="text-highlight">01.</span> Sobre Mim</h2>
+        <div class="row">
+            <div class="col-lg-8">
+                <p class="fs-5">
+                    Sou um desenvolvedor em formação focado em evolução técnica contínua. 
+                    Possuo experiência prática em desenvolvimento <strong>Full Stack</strong> e atualmente estou expandindo minha base técnica com estudos aprofundados em <strong>C++</strong>, 
+                    com foco especial em gerenciamento de memória e performance.
+                </p>
+                <p>
+                    Minha trajetória é marcada pelo mérito acadêmico. Em 2023, fui selecionado em <strong>4º lugar</strong> no programa "Ganhando o Mundo", 
+                    o que me permitiu realizar um intercâmbio de 45 dias na <strong>França</strong>. Essa experiência internacional aprimorou minha adaptabilidade 
+                    e comunicação intercultural, características que trago para o ambiente de trabalho.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills" class="container py-5">
+        <h2 class="mb-5"><span class="text-highlight">02.</span> Competências</h2>
+        <div class="row g-4">
+            <div class="col-md-6">
+                <div class="card-custom">
+                    <h4 class="mb-4"><i class="bi bi-code-slash text-highlight me-2"></i> Hard Skills</h4>
+                    <div>
+                        <span class="skill-badge">C++ (Pointers/Memory)</span>
+                        <span class="skill-badge">PHP</span>
+                        <span class="skill-badge">MySQL</span>
+                        <span class="skill-badge">JavaScript</span>
+                        <span class="skill-badge">HTML5 & CSS3</span>
+                        <span class="skill-badge">Bootstrap</span>
+                        <span class="skill-badge">Git & GitHub</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card-custom">
+                    <h4 class="mb-4"><i class="bi bi-people text-highlight me-2"></i> Soft Skills</h4>
+                    <div>
+                        <span class="skill-badge">Trabalho em Equipe</span>
+                        <span class="skill-badge">Comunicação Intercultural</span>
+                        <span class="skill-badge">Proatividade</span>
+                        <span class="skill-badge">Visão Estratégica</span>
+                        <span class="skill-badge">Inglês (Avançado)</span>
+                        <span class="skill-badge">Espanhol (Intermediário)</span>
+                        <span class="skill-badge">Francês (Básico)</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="projetos" class="container py-5">
+        <h2 class="mb-5"><span class="text-highlight">03.</span> Projetos</h2>
+        <div class="row">
+            <div class="col-lg-6 mb-4">
+                <div class="card-custom h-100">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center mb-3">
+                            <h3 class="card-title h4">Marketplace de E-waste</h3>
+                            <a href="https://github.com/bolsonii/ecomercy" class="text-highlight fs-4"><i class="bi bi-github"></i></a>
+                        </div>
+                        <p class="card-text mb-4">
+                            Um marketplace web conectando vendedores e compradores de lixo eletrônico. 
+                            Desenvolvido em equipe com foco em sustentabilidade.
+                        </p>
+                        <div class="d-flex">
+                            <div class="mt-auto col-lg-6">
+                                <span class="badge bg-secondary me-1">PHP</span>
+                                <span class="badge bg-secondary me-1">MySQL</span>
+                                <span class="badge bg-secondary me-1">JS</span>
+                            </div>
+                            <div class="mt-auto col-lg-6 text-end">
+                                <a href="https://ecomercy.kesug.com" class="text-highlight link-underline link-underline-opacity-0 link-underline-opacity-100-hover" target="_blank" rel="noopener noreferrer">
+                                    Site Ecomercy
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-lg-6 mb-4">
+                <div class="card-custom h-100 opacity-75" style="border-style: dashed;">
+                    <div class="card-body d-flex flex-column justify-content-center align-items-center text-center">
+                        <i class="bi bi-cpu fs-1 mb-3"></i>
+                        <h3 class="card-title h5">Estudos em C++</h3>
+                        <p class="card-text small">
+                            Experimentos com alocação dinâmica e gerenciamento de memória. (Em breve)
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer id="contato" class="text-center py-5 mt-5" style="border-top: 1px solid #333;">
+        <div class="container">
+            <h2 class="mb-4">Contato</h2>
+            <div class="d-flex justify-content-center gap-4 mb-1">
+                <a href="https://www.linkedin.com/in/gustavo-bolsoni-7aba37355/" class="text-light fs-3 hover-effect" target="_blank" rel="noopener noreferrer"><i class="bi bi-linkedin"></i></a>
+                <a href="https://github.com/bolsonii" class="text-light fs-3 hover-effect" target="_blank" rel="noopener noreferrer"><i class="bi bi-github"></i></a>
+                <a href="mailto:gustavobolsoni.s@gmail.com" class="text-light fs-3 hover-effect"><i class="bi bi-envelope"></i></a>
+            </div>
+            <div class="d-flex justify-content-center gap-4 mb-5">
+                <span>gustavobolsoni.s@gmail.com</span>
+            </div>
+            <p class="small text-muted mb-0">&copy; 2026 Desenvolvido com Bootstrap.</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

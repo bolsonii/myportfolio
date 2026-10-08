@@ -14,7 +14,7 @@ Execute `python -m http.server 4174 --bind 127.0.0.1` na raiz e abra http://127.
 - `assets/`: currículo, certificado e Boss Raid 0.0.6 em VSIX.
 - `img/foto.jpeg`: retrato original.
 
-Os conceitos de KOnect e Boss Raid foram descritos a partir dos projetos locais, e a experiência/formação a partir do currículo fornecido. O nível atual de inglês é B2+/C1−, conforme atualização do autor sobre a conclusão do curso. O certificado anexado corresponde à etapa anterior: B1+/B2−, 100h, conclusão em 04/07/2026; ele não comprova o nível atual. As ilustrações dos projetos são composições conceituais em CSS, não screenshots das aplicações.
+Os conceitos de KOnect e Boss Raid foram descritos a partir dos projetos locais, e a experiência/formação a partir do currículo fornecido. O nível atual de inglês é B2+/C1−, conforme atualização do autor sobre a conclusão do curso em 2025. O certificado anexado corresponde à etapa anterior: B1+/B2−, 100h, conclusão em 04/07/2026; ele não comprova o nível atual. As ilustrações dos projetos são composições conceituais em CSS, não screenshots das aplicações.
 
 KOnect: demonstração em https://konect.infinityfree.io/ e código em https://github.com/h-mello1008/KOnect. Links fornecidos pelo autor. Ecomercy permanece com link do repositório até o autor informar a nova URL pública.
 

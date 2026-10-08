@@ -18,7 +18,7 @@ Os conceitos de KOnect e Boss Raid foram descritos a partir dos projetos locais,
 
 KOnect: demonstração em https://konect.infinityfree.io/ e código em https://github.com/h-mello1008/KOnect. Ecomercy: site em https://ecomercy.site.je/ e código em https://github.com/bolsonii/ecomercy. Links fornecidos pelo autor.
 
-A atuação profissional no site é descrita como freelance, conforme esclarecimento do autor sobre seu contrato. O PDF do currículo fornecido permanece original e ainda usa a descrição de estágio.
+A atuação profissional no site é descrita como freelance, conforme esclarecimento do autor sobre seu contrato. O PDF disponível nos botões de visualização e download foi substituído pelo arquivo Curriculo_Gustavo_Bolsoni_Atualizado.pdf fornecido pelo autor, mantendo o endereço assets/curriculo-gustavo-bolsoni.pdf.
 
 A extensão requer VS Code ^1.132.0, conforme o manifesto do próprio VSIX. O funcionamento multiplayer depende do servidor configurado na extensão; este portfólio apenas distribui o pacote, sem instalar ou executar a extensão.
 

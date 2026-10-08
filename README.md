@@ -16,7 +16,7 @@ Execute `python -m http.server 4174 --bind 127.0.0.1` na raiz e abra http://127.
 
 Os conceitos de KOnect e Boss Raid foram descritos a partir dos projetos locais, e a experiência/formação a partir do currículo fornecido. O nível atual de inglês é B2+/C1−, conforme atualização do autor sobre a conclusão do curso em 2025. O certificado anexado corresponde à etapa anterior: B1+/B2−, 100h, conclusão em 04/07/2026; ele não comprova o nível atual. As ilustrações dos projetos são composições conceituais em CSS, não screenshots das aplicações.
 
-KOnect: demonstração em https://konect.infinityfree.io/ e código em https://github.com/h-mello1008/KOnect. Links fornecidos pelo autor. Ecomercy permanece com link do repositório até o autor informar a nova URL pública.
+KOnect: demonstração em https://konect.infinityfree.io/ e código em https://github.com/h-mello1008/KOnect. Ecomercy: site em https://ecomercy.site.je/ e código em https://github.com/bolsonii/ecomercy. Links fornecidos pelo autor.
 
 A atuação profissional no site é descrita como freelance, conforme esclarecimento do autor sobre seu contrato. O PDF do currículo fornecido permanece original e ainda usa a descrição de estágio.
 
